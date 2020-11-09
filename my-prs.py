@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 # Utility to list a github user's pull requests in a nicely readable markdown file with 0 dependencies.
 #
 # Usage: ./my-prs.py <username>
