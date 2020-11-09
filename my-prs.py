@@ -74,7 +74,7 @@ def get_user_prs(username):
 
 
 def generate_report(repos, prs):
-    with open(f"{user}-pull-requests.md", "w") as file:
+    with open(f"README.md", "w") as file:
         file.write(
             f"## [{user}](https://github.com/{user})'s open source contributions 🌟\n\n"
         )
