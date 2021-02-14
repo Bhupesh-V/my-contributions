@@ -1,6 +1,14 @@
 ## [Bhupesh-V](https://github.com/Bhupesh-V)'s open source contributions 🌟
 
 <ol>
+<li><a target="_blank" href="https://github.com/mhxion/awesome-discord-communities/pull/45">add new server - developersIndia</a> in <b><a href="https://github.com/mhxion/awesome-discord-communities">awesome-discord-communities</a></b> on <i>09 Feb, 2021</i> 
+
+<details><summary>Description</summary>
+
+Hello Admin of developersIndia here 👋🏽 
+</details>
+
+</li>
 <li><a target="_blank" href="https://github.com/up-for-grabs/up-for-grabs.net/pull/2434">Create dotman.yml</a> in <b><a href="https://github.com/up-for-grabs/up-for-grabs.net">up-for-grabs.net</a></b> on <i>26 Oct, 2020</i> 
 
 <details><summary>Description</summary>
