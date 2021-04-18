@@ -1,6 +1,15 @@
 ## [Bhupesh-V](https://github.com/Bhupesh-V)'s open source contributions 🌟
 
 <ol>
+<li><a target="_blank" href="https://github.com/shrutikapoor08/talent-for-hire/pull/135">add job profile info - Bhupesh</a> in <b><a href="https://github.com/shrutikapoor08/talent-for-hire">talent-for-hire</a></b> on <i>13 Apr, 2021</i> 
+
+<details><summary>Description</summary>
+
+Hello 👋🏽 
+Thanks for maintaining the list
+</details>
+
+</li>
 <li><a target="_blank" href="https://github.com/mhxion/awesome-discord-communities/pull/45">add new server - developersIndia</a> in <b><a href="https://github.com/mhxion/awesome-discord-communities">awesome-discord-communities</a></b> on <i>09 Feb, 2021</i> 
 
 <details><summary>Description</summary>
