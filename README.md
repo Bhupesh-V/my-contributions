@@ -1,6 +1,22 @@
 ## [Bhupesh-V](https://github.com/Bhupesh-V)'s open source contributions 🌟
 
 <ol>
+<li><a target="_blank" href="https://github.com/howtographql/howtographql/pull/1330">fix broken link for relay docs</a> in <b><a href="https://github.com/howtographql/howtographql">howtographql</a></b> on <i>06 Jun, 2021</i> 
+
+<details><summary>Description</summary>
+
+the old link https://facebook.github.io/relay/docs/en/graphql-server-specification.html in summary was redirected to a 404 page
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/howtographql/howtographql/pull/1329">potential fix for invisible snippet #1328</a> in <b><a href="https://github.com/howtographql/howtographql">howtographql</a></b> on <i>06 Jun, 2021</i> 
+
+<details><summary>Description</summary>
+
+Fix #1328 
+</details>
+
+</li>
 <li><a target="_blank" href="https://github.com/shrutikapoor08/talent-for-hire/pull/135">add job profile info - Bhupesh</a> in <b><a href="https://github.com/shrutikapoor08/talent-for-hire">talent-for-hire</a></b> on <i>13 Apr, 2021</i> 
 
 <details><summary>Description</summary>
