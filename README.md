@@ -770,35 +770,6 @@ Feature:
 </details>
 
 </li>
-<li><a target="_blank" href="https://github.com/Novice-Paradigm/C/pull/43">added fibonacci series</a> in <b><a href="https://github.com/Novice-Paradigm/C">C</a></b> on <i>02 Dec, 2018</i> 
-
-<details><summary>Description</summary>
-
-
-</details>
-
-</li>
-<li><a target="_blank" href="https://github.com/Novice-Paradigm/Cplusplus/pull/164">fixed issue #163</a> in <b><a href="https://github.com/Novice-Paradigm/Cplusplus">Cplusplus</a></b> on <i>02 Dec, 2018</i> 
-
-<details><summary>Description</summary>
-
-## Checklist
-- [X] Make sure you check existing PR's to avoid conflicts
-- [X] Check if the issue is present if not open it
-- [X] Maintain standard code style
-- [] We love your help but please don't simply copy from existing code platforms
-
-</details>
-
-</li>
-<li><a target="_blank" href="https://github.com/Novice-Paradigm/Python/pull/161">Added PythonNotesForProfessionals</a> in <b><a href="https://github.com/Novice-Paradigm/Python">Python</a></b> on <i>01 Dec, 2018</i> 
-
-<details><summary>Description</summary>
-
-
-</details>
-
-</li>
 <li><a target="_blank" href="https://github.com/Animesh-Ghosh/Stuff/pull/5">added .gitignore</a> in <b><a href="https://github.com/Animesh-Ghosh/Stuff">Stuff</a></b> on <i>04 Nov, 2018</i> 
 
 <details><summary>Description</summary>
