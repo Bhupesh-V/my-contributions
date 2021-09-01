@@ -1,6 +1,37 @@
 ## [Bhupesh-V](https://github.com/Bhupesh-V)'s open source contributions 🌟
 
 <ol>
+<li><a target="_blank" href="https://github.com/CreatorStack/backbone/pull/3">remove go mod</a> in <b><a href="https://github.com/CreatorStack/backbone">backbone</a></b> on <i>24 Aug, 2021</i> 
+
+<details><summary>Description</summary>
+
+since we are moving to submodules strategy
+having this file inside our "cloned" folder was giving errors
+
+removing this files fixes this
+
+Cons:
+- any service that uses this repo would have to add it as a submodule
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/CreatorStack/backbone/pull/2">downgraded to 1.13</a> in <b><a href="https://github.com/CreatorStack/backbone">backbone</a></b> on <i>19 Aug, 2021</i> 
+
+<details><summary>Description</summary>
+
+None
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/CreatorStack/backbone/pull/1">add title in rewards</a> in <b><a href="https://github.com/CreatorStack/backbone">backbone</a></b> on <i>18 Aug, 2021</i> 
+
+<details><summary>Description</summary>
+
+need a new field title in rewards for new challenges revamp
+[Story: GSD-621](https://creatorstack.atlassian.net/browse/GSD-621)
+</details>
+
+</li>
 <li><a target="_blank" href="https://github.com/howtographql/howtographql/pull/1330">fix broken link for relay docs</a> in <b><a href="https://github.com/howtographql/howtographql">howtographql</a></b> on <i>06 Jun, 2021</i> 
 
 <details><summary>Description</summary>
