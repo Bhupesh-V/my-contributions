@@ -16,11 +16,11 @@ jobs:
       uses: Bhupesh-V/moc@main
       with:
         username: "${{ github.actor }}"
-        filename: "my-prs.md"
-    - name: Update README
-      run: |-
-        python3 my-prs.py Bhupesh-V
-    - name: Push new README.md
-      uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        filename: "README.md"
+#     - name: Update README
+#       run: |-
+#         python3 my-prs.py Bhupesh-V
+#     - name: Push new README.md
+#       uses: mikeal/publish-to-github-action@master
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
