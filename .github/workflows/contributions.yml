@@ -13,14 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Generate My PRs List 👀
-      uses: Bhupesh-V/moc@main
+      uses: developersindia/moc@main
       with:
         username: "${{ github.actor }}"
         filename: "README.md"
-#     - name: Update README
-#       run: |-
-#         python3 my-prs.py Bhupesh-V
-#     - name: Push new README.md
-#       uses: mikeal/publish-to-github-action@master
-#       env:
-#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
