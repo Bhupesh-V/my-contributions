@@ -1,6 +1,166 @@
 ## [Bhupesh-V](https://github.com/Bhupesh-V)'s open source contributions 🌟
 
 <ol>
+<li><a target="_blank" href="https://github.com/CreatorStack/logger_flutter/pull/1">📦 migrate to null safety + make work with stable flutter</a> in <b><a href="https://github.com/CreatorStack/logger_flutter">logger_flutter</a></b> on <i>18 Feb, 2022</i> 
+
+<details><summary>Description</summary>
+
+None
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/CreatorStack/progress_button/pull/1">📦 migrate to null-safety</a> in <b><a href="https://github.com/CreatorStack/progress_button">progress_button</a></b> on <i>16 Feb, 2022</i> 
+
+<details><summary>Description</summary>
+
+there is a PR in the original repo, but we can't be sure if the PR will ever get merged or worse the branch gets deleted?
+
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/PascalAC/progress_button/pull/8">📦 migrate to null-safety</a> in <b><a href="https://github.com/PascalAC/progress_button">progress_button</a></b> on <i>16 Feb, 2022</i> 
+
+<details><summary>Description</summary>
+
+None
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/casvanluijtelaar/faker.dart/pull/2">✨ support for internet module</a> in <b><a href="https://github.com/casvanluijtelaar/faker.dart">faker.dart</a></b> on <i>06 Feb, 2022</i> 
+
+<details><summary>Description</summary>
+
+Hey, apologies for the delayed PR 😅 
+
+have added a bunch of methods
+
+1. Get a fake domain name
+2. Get fake domain suffix
+3. Get a fake URL
+4. Get a fake HTTP method
+5. Get a fake IPv4 address
+
+this resolves #1 
+Let me know if anything else is needed
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/google/season-of-docs/pull/336">add bhupesh's intent to join GSOD</a> in <b><a href="https://github.com/google/season-of-docs">season-of-docs</a></b> on <i>04 Feb, 2022</i> 
+
+<details><summary>Description</summary>
+
+None
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/developersIndia/.github/pull/2">First draft of Code of Conduct</a> in <b><a href="https://github.com/developersIndia/.github">.github</a></b> on <i>16 Jan, 2022</i> 
+
+<details><summary>Description</summary>
+
+The COC for both Reddit and Github.
+this will also apply to any future projects, events etc
+
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/developersIndia/.github/pull/1">Create README with orgz intro</a> in <b><a href="https://github.com/developersIndia/.github">.github</a></b> on <i>15 Jan, 2022</i> 
+
+<details><summary>Description</summary>
+
+An intro for our community ❤️ 🇮🇳 👨🏽‍💻 
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/Schneegans/dynamic-badges-action/pull/9">clearify using custom colors in labels</a> in <b><a href="https://github.com/Schneegans/dynamic-badges-action">dynamic-badges-action</a></b> on <i>18 Dec, 2021</i> 
+
+<details><summary>Description</summary>
+
+None
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/KasperZutterman/Second-Brain/pull/36">add my 2nd brain</a> in <b><a href="https://github.com/KasperZutterman/Second-Brain">Second-Brain</a></b> on <i>12 Dec, 2021</i> 
+
+<details><summary>Description</summary>
+
+None
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/RichardLitt/meta-knowledge/pull/54">add new knowledge repo</a> in <b><a href="https://github.com/RichardLitt/meta-knowledge">meta-knowledge</a></b> on <i>12 Dec, 2021</i> 
+
+<details><summary>Description</summary>
+
+None
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/Homebrew/homebrew-core/pull/90513">ugit 0.5 (new formula)</a> in <b><a href="https://github.com/Homebrew/homebrew-core">homebrew-core</a></b> on <i>05 Dec, 2021</i> 
+
+<details><summary>Description</summary>
+
+- [x] Have you followed the [guidelines for contributing](https://github.com/Homebrew/homebrew-core/blob/HEAD/CONTRIBUTING.md)?
+- [x] Have you ensured that your commits follow the [commit style guide](https://docs.brew.sh/Formula-Cookbook#commit)?
+- [x] Have you checked that there aren't other open [pull requests](https://github.com/Homebrew/homebrew-core/pulls) for the same formula update/change?
+- [x] Have you built your formula locally with `brew install --build-from-source <formula>`, where `<formula>` is the name of the formula you're submitting?
+- [x] Is your test running fine `brew test <formula>`, where `<formula>` is the name of the formula you're submitting?
+- [x] Does your build pass `brew audit --strict <formula>` (after doing `brew install --build-from-source <formula>`)? If this is a new formula, does it pass `brew audit --new <formula>`?
+
+-----
+
+</details>
+
+</li>
+<li><a target="_blank" href="https://github.com/CreatorStack/backbone/pull/13">✨ add messenger to common models</a> in <b><a href="https://github.com/CreatorStack/backbone">backbone</a></b> on <i>12 Nov, 2021</i> 
+
+<details><summary>Description</summary>
+
+## Relevant Documentation Links
+-
+
+
+## Relevant Jira Links
+- https://creatorstack.atlassian.net/browse/GSD-1661
+-
+
+## Other Relevant PRs
+-
+
+
+## Changes
+
+- this struct will be used in messenger and hypelinks service.
+
+### Changes Include
+
+-   [ ] Bug fix 🐛 (non-breaking change which fixes an issue)
+-   [x] New feature ✨ (non-breaking change which adds functionality)
+-   [ ] Breaking change 😢 (fix or feature that would cause existing functionality to not work as expected)
+-   [ ] Refactor ⚒️ (code change that neither fixes a bug nor adds a feature)
+-   [ ] Tooling ⚙️ (Changes to the build process or auxiliary tools and libraries such as documentation generation)
+-   [ ] Performance ⚡ (code change that improves performance)
+
+### Checklist
+
+-   [ ] I have commented my code, particularly in hard-to-understand areas
+-   [ ] I have made corresponding changes to the documentation
+-   [ ] My changes generate no new warnings
+-   [ ] Requires migrations
+-   [ ] Requires dependency update
+-   [ ] Breaking API Change
+-   [ ] I have added proper logs for production debugging
+-   [ ] I have added performance (APM) monitoring checkpoints
+-   [ ] I have added unit tests
+
+## Screenshots (if any)
+(prefer animated gif)
+
+## User Acceptance Tests
+
+
+</details>
+
+</li>
 <li><a target="_blank" href="https://github.com/CreatorStack/backbone/pull/3">remove go mod</a> in <b><a href="https://github.com/CreatorStack/backbone">backbone</a></b> on <i>24 Aug, 2021</i> 
 
 <details><summary>Description</summary>
