@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Generate My PRs List 👀
-      uses: developersindia/moc@main
+      uses: developersindia/myosc@main
       with:
         username: "${{ github.actor }}"
         filename: "README.md"
